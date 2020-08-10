@@ -33,3 +33,11 @@ for (let word of text.split(' ')) {
 }
 
 console.log(res3);
+
+// Output:
+    // #1
+    // TypeScrtipt is a front-end language that is an alternative to JavaSCript. This improves the JavaScript productivity. The typescript helps to use OOPs patternern for front-end development.
+    // #2 No. of occurences of Character "a" --> 12
+    // #2 No. of occurences of word "is" --> 2
+    // #3
+    // TypeScrtipt Is A Front-end Language That Is An Alternative To JavaSCript. This Improves The JavaScript Productivity. The Typescript Helps To Use OOPs Patternern For Front-end Development.
